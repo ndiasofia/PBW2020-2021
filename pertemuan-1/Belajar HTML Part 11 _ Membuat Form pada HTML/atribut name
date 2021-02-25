@@ -1,0 +1,5 @@
+Contoh penulisan
+
+nama : <input type="text" name="nama"><br/>
+alamat : <input type="text" name="alamat"></br/>
+password : <input type="password" name="pass"><br/>
